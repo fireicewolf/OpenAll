@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Open All</string>
+    <string name="run_all_apps">Run all apps</string>
+    <string name="package_names_viewed_by_launcher">Package names viewed by launcher:</string>
+    <string name="desc">desc</string>
+</resources>
